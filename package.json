@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "description": "",
+  "version": "1.0.0",
+  "author": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "private": true,
+  "scripts": {},
+  "volta": {
+    "node": "15.13.0",
+    "npm": "7.8.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

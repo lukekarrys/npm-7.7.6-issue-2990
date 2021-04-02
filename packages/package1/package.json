@@ -1,0 +1,14 @@
+{
+  "name": "package1",
+  "description": "",
+  "version": "1.0.0",
+  "author": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "echo": "echo \"test\"",
+    "run:echo": "npm run echo"
+  }
+}
